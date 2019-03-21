@@ -1,6 +1,6 @@
 # nmf
 
-Implementation of non-negative matrix factorization via multiplicative updates. 
+Implementation of non-negative matrix factorization on an image dataset via multiplicative updates. 
 
 Currently assumes use of CelebA dataset, update IMG_H and IMG_W globals for other datasets.
 
